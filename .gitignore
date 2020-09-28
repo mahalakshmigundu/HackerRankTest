@@ -1,0 +1,44 @@
+/target/
+**/target/
+
+**/.project
+/.project
+
+# Setting directory
+**/.settings/
+/.settings/
+
+**/*.lck
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+**/*.log
+**/*.log.*
+**/*_IS_UNDEFINED
+
+#Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+/.classpath
+/test-output/
+**/test-output/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+.DS_Store
+**/.classpath
+./bin/
+bin/
